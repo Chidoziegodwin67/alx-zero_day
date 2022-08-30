@@ -1,1 +1,1 @@
-neye serve me food
+only neye serve me food
